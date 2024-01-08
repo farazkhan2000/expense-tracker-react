@@ -26,7 +26,7 @@ To run this application locally:
 
 ## Deployment
 
-The app can be deployed and accessed live at [Expense Tracker Demo]([https://your-deployed-app-url.com](https://incredible-longma-967a13.netlify.app/)).
+The app can be deployed and accessed live at [Expense Tracker Demo](https://incredible-longma-967a13.netlify.app/).
 
 ## Contribution
 
